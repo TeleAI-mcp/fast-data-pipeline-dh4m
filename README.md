@@ -1,2 +1,3 @@
-# fast-data-pipeline-dh4m
-A data processing pipeline for modern development workflows
+# Fast Data Pipeline Dh4M
+
+A data processing pipeline for modern development workflows.
